@@ -1,3 +1,4 @@
-# ----------
-# Python [code] (https://github.com/KiritoQN/Python/tree/develop/Source)
-# (empty)
+### Nguyen Minh Tan - University Information of Technology
+### ANTT2013
+# ---------------------
+## Python 2.7
